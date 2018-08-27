@@ -1,0 +1,17 @@
+url: "https://links.nikl.me"
+
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-extlinks
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['nikl.me', 'eicker.me']
+
+include: ['_redirects']
+
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<!-- head -->
+{% include html-head-cc.html %}
+
+<body>
+
+<header>
+    <div class="container">
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.description }}</h2>
+    </div>
+</header>
+
+<div class="container">
+    <section id="main_content">
+        {{ content | extlinks }}
+    </section>
+</div>
+
+</body>
+</html>
