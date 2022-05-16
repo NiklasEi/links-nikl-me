@@ -19,7 +19,7 @@ description: Ein kurzer guide für die Clemenscloud mit einer Anleitung für das
    
 # Clemenscloud
 
-Auf meinem Server läuft unter [cc.eicker.me](https://cc.eicker.me) ein Programm, mit dem Daten gespeichert, geteilt und zwischen verschiedenen Geräten synchronisiert werden können (siehe [Nextcloud website](https://nextcloud.com/) für mehr Infos). Jeder in der Familie kann von mir einen Account erstellt bekommen und hat dann ordentlich Speicherplatz. Es gibt eine Android App, eine iOS App und Desktop Apps für Windows, OS X und Linux. Mit der App kannst du zum Beispiel deine Handybilder und Videos automatisch hochladen lassen und hast damit eine Sicherheitskopie, falls dein Handy abhandenkommt oder mal baden gehen sollte.
+Auf [cc.eicker.me](https://cc.eicker.me) läuft ein Programm, mit dem Daten gespeichert, geteilt und zwischen verschiedenen Geräten synchronisiert werden können (siehe [Nextcloud website](https://nextcloud.com/) für mehr Infos). Jeder in der Familie kann von mir einen Account erstellt bekommen und hat dann ordentlich Speicherplatz. Es gibt eine Android App, eine iOS App und Desktop Apps für Windows, OS X und Linux. Mit der App kannst du zum Beispiel deine Handybilder und Videos automatisch hochladen lassen und hast damit eine Sicherheitskopie, falls dein Handy abhandenkommt oder mal baden gehen sollte.
 
 Außerdem ermöglicht die cloud problemlos große Datenmengen mit anderen zu teilen (siehe [Dateien teilen](#dateien-teilen)) und kann Sicherheitskopien deiner Kontakte anlegen (siehe [Kontakte sichern](#kontakte-sichern)).
 
