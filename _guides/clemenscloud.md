@@ -19,29 +19,25 @@ description: Ein kurzer guide für die Clemenscloud mit einer Anleitung für das
    
 # Clemenscloud
 
-Auf meinem Server läuft unter [cloud.eicker.me](https://cloud.eicker.me) ein Programm, mit dem Daten gespeichert, geteilt und zwischen verschiedenen Geräten synchronisiert werden können (siehe [Nextcloud website](https://nextcloud.com/) für mehr Infos). Jeder in der Familie kann von mir einen Account erstellt bekommen und hat dann unbegrenzten Speicherplatz. Es gibt eine Android App, eine Apple App und Desktop Apps für Windows, OS X und Linux. Mit der Handy-App kannst du zum Beispiel deine Handybilder und Videos automatisch hochladen lassen und hast damit eine Sicherheitskopie, falls dein Handy abhanden kommt oder mal baden gehen sollte.
+Auf meinem Server läuft unter [cc.eicker.me](https://cc.eicker.me) ein Programm, mit dem Daten gespeichert, geteilt und zwischen verschiedenen Geräten synchronisiert werden können (siehe [Nextcloud website](https://nextcloud.com/) für mehr Infos). Jeder in der Familie kann von mir einen Account erstellt bekommen und hat dann ordentlich Speicherplatz. Es gibt eine Android App, eine iOS App und Desktop Apps für Windows, OS X und Linux. Mit der App kannst du zum Beispiel deine Handybilder und Videos automatisch hochladen lassen und hast damit eine Sicherheitskopie, falls dein Handy abhandenkommt oder mal baden gehen sollte.
 
 Außerdem ermöglicht die cloud problemlos große Datenmengen mit anderen zu teilen (siehe [Dateien teilen](#dateien-teilen)) und kann Sicherheitskopien deiner Kontakte anlegen (siehe [Kontakte sichern](#kontakte-sichern)).
 
-Das alles lässt sich sehr schnell und einfach einrichten.
-
 ### Accountverwaltung
 
-Nach dem ersten Login bitte ich darum, dass du dein Anfangspasswort änderst und eine E-mail Adresse in dein Profil einträgst. Beides wird in den Einstellungen gemacht, die du über deinen Avatar oben-rechts finden kannst. Die E-mail Adresse ist kein Muss, aber wenn du sie angibst, kannst du eigenständig dein Passwort zurücksetzten, falls du das mal vergessen solltest 😉
-
-In den Einstellungen kann auch eine Menge anderer Sachen geändert werden, wie zum Beispiel die Sprache, falls dir die Grundeinstellung nicht gefällt.
+Du solltest eine e mail bekommen haben mit einem account (wenn nicht, melde dich bei mir). Merk dir deinen account namen, folge dem link und klicke "passwort vergessen". Danach solltest du eine e mail bekommen, mit der du dein passwort setzen kannst.
 
 ### Dateien verwalten
 
-Wenn du dich anmeldest, bist du standardmäßig in der "Alle Dateien" Ansicht, in die du jederzeit zurück kannst, indem du oben links auf das Ordnersymbol klickst. Dateien können hier einfach durch drag-and-drop oder durch Klicken auf das "+" über der Dateienliste hochgeladen werden. Wenn du auf das Plus klickst, kannst du auch neue Ordner erstellen, um Chaos zu vermeiden.
+Wenn du dich anmeldest, bist du standardmäßig auf deinem "Dashboard". Um zu deinen Dateien zu kommen, Klicke oben links auf das Ordnersymbol. Hier kannst du per drag-and-drop oder durch klicken auf das "+" Dateien hoch laden. Wenn du auf das "+" klickst, kannst du auch neue Ordner erstellen, um Chaos zu vermeiden.
 
-Alle Dateien sind erstmal nur für dich sichtbar und niemand sonst hat Zugriff darauf! Geteilte Dateien oder Ordner werden, wie unten in dem Bild gezeigt, markiert.
+Alle Dateien sind erstmal nur für dich sichtbar! Geteilte Dateien oder Ordner werden, wie unten in dem Bild gezeigt, markiert.
 
 ![Dateien](/assets/img/clemenscloud/dateien.png)
 
 ### Dateien teilen
 
-Dateien können durch Klicken auf das Teilensymbol (oben im Bild markiert) für andere zugänglich gemacht werden. Keine Sorge, das kann jeder Zeit rückgängig gemacht oder bearbeitet werden. 
+Dateien können durch klicken auf das Teilen symbol (oben im Bild markiert) für andere zugänglich gemacht werden. Keine Sorge, das kann jeder Zeit rückgängig gemacht oder bearbeitet werden. 
 
 Es gibt zwei unterschiedliche Möglichkeiten, um Dateien zu teilen:
 1. Mit Gruppen oder anderen Personen in der Cloud
@@ -55,7 +51,7 @@ Beim Teilen per Link kann ein Passwort für den Download eingerichtet werden und
 
 Die App heißt Nextcloud und kann ganz normal vom Appstore aus installiert werden. Nach der Installation musst du einmalig dein Konto einrichten.
 
-1. Als Serveradresse `https://cloud.eicker.me/nextcloud` eingeben.
+1. Als Serveradresse `https://cc.eicker.me/` eingeben.
 
    ![Dateien](/assets/img/clemenscloud/app1.png)
 
@@ -63,7 +59,7 @@ Die App heißt Nextcloud und kann ganz normal vom Appstore aus installiert werde
 
    ![Dateien](/assets/img/clemenscloud/app2.png) ![Dateien](/assets/img/clemenscloud/app3.png)
    
-3. Die App muss Zugriff auf deine Handy Dateien haben, sonst kann nichts hoch- oder runtergeladen werden.
+3. Die App muss Zugriff auf deine Handydateien haben, sonst kann nichts hoch- oder heruntergeladen werden.
    
    ![Dateien](/assets/img/clemenscloud/app4.png)
    
@@ -77,7 +73,7 @@ Jetzt wird eine Liste mit verschiedenen Kategorien von Dateien gezeigt. Für jed
 
 ![Dateien](/assets/img/clemenscloud/app6.png)
 
-Wenn du die Synchronisation für die Kategorie Kamera eingestellt hast, kannst du einen Test machen, indem du ein Bild machst und guckst, ob es in der Cloud auftaucht. Standardmäßig läd die App Bilder und Videos nur hoch, wenn eine W-lan Verbindung besteht! Wenn du ein begrenztes mobiles Datenvolumen hast, solltest du diese Einstellung nicht ändern.
+Wenn du die Synchronisation für die Kategorie Kamera eingestellt hast, kannst du einen Test machen, indem du ein Bild machst und guckst, ob es in der Cloud auftaucht. Standardmäßig läd die App Bilder und Videos nur hoch, wenn eine W-LAN Verbindung besteht! Wenn du ein begrenztes mobiles Datenvolumen hast, solltest du diese Einstellung nicht ändern.
 
 Um auch die älteren Bilder in der Cloud zu speichern, kannst du einen manuellen Upload starten (am besten über Nacht).
 
@@ -110,7 +106,7 @@ Die App ermöglicht auch die automatische oder manuelle Sicherung all deiner Kon
 
 #### Importieren
 
-Je nach Betriebssystem deines Handys und der Version, kann es kleine Unterschiede im Ablauf geben.
+Je nach Betriebssystem deines Handys und der Version kann es kleine Unterschiede im Ablauf geben.
 
 1. In deinen Kontakten das Menü öffnen.
 
@@ -145,8 +141,8 @@ Je nach Betriebssystem deines Handys und der Version, kann es kleine Unterschied
 
 Die Nextcloud Anwendung kann für verschiedene Betriebssysteme [heruntergeladen werden](https://nextcloud.com/install/#install-clients). Nach der Installation muss zuerst das Konto eingerichtet werden.
 
-Als Serveradresse bitte immer `https://cloud.eicker.me/nextcloud` verwenden.
+Als Serveradresse bitte immer `https://cc.eicker.me/` verwenden.
 
-Das Programm erstellt einen lokalen Ordner, der mit deinem Cloudordner synchronisiert wird. Das bedeutet, du hast jetzt automatisch deine Handybilder auf dem PC, falls auch die Handy App wie oben beschrieben eingerichtet ist. Außerdem können so sehr schnell und bequem Dateien in der Cloud abgesichert werden, indem du sie einfach in den lokalen Ordner kopierst.
+Das Programm erstellt einen lokalen Ordner, der mit deinem Cloud-ordner synchronisiert wird. Das bedeutet, du hast jetzt automatisch deine Handybilder auf dem PC, falls auch die Handyapp wie oben beschrieben eingerichtet ist. Außerdem können so sehr schnell und bequem Dateien in der Cloud abgesichert werden, indem du sie einfach in den lokalen Ordner kopierst.
 
 Die Synchronisation funktioniert voll automatisiert in alle Richtungen. Jede Änderung in dem Handyordner oder Ordner auf dem PC wird in der Cloud übernommen und umgekehrt. Es ist also eine Sache von Sekunden Dateien vom Computer auf das Handy zu ziehen, und das ohne Kabel 😉 
